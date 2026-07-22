@@ -14,4 +14,4 @@ An AI Desktop Companion that grows with you.
 
 Status
 
-🚧 Under Development
+🚧 Under Development 
